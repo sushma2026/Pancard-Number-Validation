@@ -1,6 +1,6 @@
 # Pancard-Number-Validation
 It checks the Pancard number is in valid format or not using Java.
-In this project, I enlarged my java knownledge to user inferface level .
+In this project, I enlarged my java knownledge to user interface level .
 I used Java Swing to create window-based applications.
  
 Output:
